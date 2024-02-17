@@ -1,0 +1,12 @@
+{
+  // Spell Check Extension
+  "cSpell.ignoreWords": [
+    "Acgb",
+    "MTIwNTgzOTUxNzcyMzE0MDEwNg.Gx16DG.sV6Juo34Vm741iuCAcgb0qR8pN83qzb1YLZBkU",
+    "Nzcy",
+    "Padme"
+  ],
+
+  // Prettier Formatter Extension
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
