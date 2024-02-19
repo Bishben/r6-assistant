@@ -1,7 +1,0 @@
-{
-  // Spell Check Extension
-  "cSpell.ignoreWords": ["Acgb", "Padme"],
-
-  // Prettier Formatter Extension
-  "editor.defaultFormatter": "esbenp.prettier-vscode"
-}
